@@ -1,5 +1,5 @@
 # Agriculture-Mobile-Robot-Simulation-
-Simulation of a mobile robot creating a Bitmap of a field
+This project is a simulation of a mobile robot creating a probability occupancy grid as it navigates through a field of trees. 
 
 <p align="center">
 <img src="https://github.com/Drojas251/Agriculture-Mobile-Robot-Simulation-/blob/master/media/ag_robot.gif" width="400">
