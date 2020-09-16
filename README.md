@@ -1,4 +1,7 @@
 # Agriculture-Mobile-Robot-Simulation-
+-
+Authors: Diego Rojas, Hamid Jafarbiglu, Starvos Vougioukas
+--
 This project is a simulation of a mobile robot creating a probability occupancy grid as it navigates through a field of trees. 
 
 <p align="center">
